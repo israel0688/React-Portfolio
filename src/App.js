@@ -3,6 +3,7 @@ import Nav from "./components/Nav";
 import About from "./components/About";
 import Project from "./components/Project";
 import ContactForm from "./components/Contact";
+import Header from "./components/Header";
 
 function App() {
 
@@ -13,7 +14,6 @@ function App() {
       description:
         "Projects I have done through out the boot camp",
     },
-    { name: "Resume", description: "Resume Work" },
   ]);
 
   
@@ -28,6 +28,7 @@ function App() {
         contactSelected={contactSelected}
         setContactSelected={setContactSelected}
       ></Nav>
+      <Header></Header>
       <main>
       {!contactSelected ? (
        <>

@@ -33,6 +33,11 @@ function Nav(props) {
           About me
         </a>
       </li>
+      <li className="mx-2">
+      <a href="https://github.com/israel0688/professional-portfolio/blob/master/Resume/Resume.docx" target="_blank">
+        Resume
+        </a>
+      </li>
       <li className={`mx-2 ${contactSelected && 'navActive'}`}>
       <span onClick={() => setContactSelected(true)}>Contact</span>
         </li>
