@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { validateEmail } from '../../utils/helpers';
-
+import Footer from "../Footer";
 
 function ContactForm() {
 
@@ -62,6 +62,7 @@ function ContactForm() {
                     </div>
                 )}
                 <button type="submit">Submit</button>
+                <Footer></Footer>
             </form>
         </section>
     )

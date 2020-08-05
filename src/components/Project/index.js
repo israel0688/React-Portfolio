@@ -1,6 +1,7 @@
 import React from 'react';
 import { capitalizeFirstLetter } from '../../utils/helpers';
 import photo from "../../assets/projectPics/workoutworkers.png";
+import Footer from "../Footer";
 
 function Project(props) {
 
@@ -20,6 +21,7 @@ function Project(props) {
             alt="Commercial Example"
             className="img-thumbnail mx-1"
           />
+        <Footer></Footer>
       </div>
     </section>
   );
