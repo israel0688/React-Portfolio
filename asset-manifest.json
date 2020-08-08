@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.6084d91d.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.70572027.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.70572027.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.266d4783.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.266d4783.js.map",
+    "static/js/2.67627835.chunk.js": "/React-Portfolio/static/js/2.67627835.chunk.js",
+    "static/js/2.67627835.chunk.js.map": "/React-Portfolio/static/js/2.67627835.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.f3f28251826dd189776a2ea21f9caf82.js": "/React-Portfolio/precache-manifest.f3f28251826dd189776a2ea21f9caf82.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.6084d91d.chunk.css.map": "/React-Portfolio/static/css/main.6084d91d.chunk.css.map",
+    "static/js/2.67627835.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.67627835.chunk.js.LICENSE.txt",
+    "static/media/GitHub_Logo_White.png": "/React-Portfolio/static/media/GitHub_Logo_White.064ace47.png",
+    "static/media/LI-Logo.png": "/React-Portfolio/static/media/LI-Logo.c24cde28.png",
+    "static/media/cover-image.jpg": "/React-Portfolio/static/media/cover-image.bf78f5ef.jpg",
+    "static/media/style.css": "/React-Portfolio/static/media/workoutworkers.e38ba360.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.266d4783.js",
+    "static/js/2.67627835.chunk.js",
+    "static/css/main.6084d91d.chunk.css",
+    "static/js/main.70572027.chunk.js"
+  ]
+}
