@@ -2,8 +2,8 @@
 
 An app that displays my portfolio as a single page application using React.
 
-[Github Repo](https://github.com/israel0688/React-Portfolio)
-[Deployed Application](https://israel0688.github.io/React-Portfolio/)
+* [Github Repo](https://github.com/israel0688/React-Portfolio)
+* [Deployed Application](https://israel0688.github.io/React-Portfolio/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
