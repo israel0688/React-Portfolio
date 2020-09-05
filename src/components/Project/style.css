@@ -68,7 +68,7 @@ flex-direction: column;
 margin-bottom: 15px;
 
 /* for files in local images folder, use url('../images/file-name.jpg') */
-background-image: url("../../assets/projectPics/horiseon.png");
+background-image: url("../../assets/projectPics/stackstudy.png");
 
 /* tell background to fit box no matter what */
 background-size: cover;

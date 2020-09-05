@@ -27,7 +27,7 @@ function Project(props) {
   <span><a href="https://israel0688.github.io/run-buddy/" target="_blank">Run Buddy/</a><a href="https://github.com/israel0688/run-buddy" target="_blank">REPO</a></span>
 </div>
 <div className="flex-item2">
-  <span><a href="https://israel0688.github.io/urban-octo-telegram-master-israel/Develop/index.html" target="_blank">Horiseon/</a><a href="https://github.com/israel0688/urban-octo-telegram-master-israel" target="_blank">REPO</a></span>
+  <span><a href="https://stackstudy.herokuapp.com/#Your%20Cards/" target="_blank">StackStudy/</a><a href="https://github.com/israel0688/StackStudy" target="_blank">REPO</a></span>
 </div>
 </div>
 <div>
